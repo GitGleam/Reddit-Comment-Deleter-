@@ -9,7 +9,7 @@ Provides error handling for smooth execution.
 
 **Usage:**
 
-Replace the placeholders in the script (client_id, client_secret, username, password) with your actual Reddit API credentials.
+Replace the placeholders in the script ```(client_id, client_secret, username, password, user_agent)``` with your actual Reddit API credentials.
 Run the script to delete all comments associated with the specified Reddit user.
 
 ## Requirements:
