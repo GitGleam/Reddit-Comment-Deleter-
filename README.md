@@ -1,4 +1,4 @@
-# Reddit Comment Deleter in Bulk
+# Reddit Comment Deleter In Bulk
 This Python script utilizes the PRAW library to interact with the Reddit API. It provides functionality to delete all comments made by a specified Reddit user. The script uses Reddit API credentials for authentication and then deletes all comments associated with the user account.
 
 **Features:**
