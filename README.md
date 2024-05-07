@@ -13,6 +13,7 @@ Replace the placeholders in the script ```(client_id, client_secret, username, p
 Run the script to delete all comments associated with the specified Reddit user.
 
 ## Requirements:
+
 Python 3.x
-PRAW library (pip install praw)
+PRAW library ```pip install praw```
 Feel free to contribute, report issues, or suggest improvements!
